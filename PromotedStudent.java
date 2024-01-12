@@ -1,5 +1,5 @@
 package lab10;
-
+import java.util.scanner;
 public class PromotedStudent {
 	
 	    private int rollNumber;
